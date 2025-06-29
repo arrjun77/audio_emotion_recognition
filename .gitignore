@@ -1,0 +1,12 @@
+# Ignore audio data
+audio/
+*.wav
+*.mp3
+
+# Ignore Jupyter checkpoint backups
+.ipynb_checkpoints/
+
+# Ignore other temp files
+__pycache__/
+*.pyc
+.DS_Store
