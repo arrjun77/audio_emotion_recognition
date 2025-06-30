@@ -103,10 +103,15 @@ Predicted Emotion: angry
 - Combine audio + video for multi-modal analysis
 
 ---
+## Note
+
+- **Please use your input and output folder path instead of all paths specified in the code
+
+---
 
 ## Credits
 
-- Dataset: RAVDESS - Ryerson Audio-Visual Database of Emotional Speech and Song
+- Dataset: RAVDESS - Ryerson Audio-Visual Database of Emotional Speech and Song (Audio only)
 - Built using Python, PyTorch, Librosa, and SoundDevice
 
 ---
